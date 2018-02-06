@@ -1,5 +1,5 @@
 {
-    "name": "symfony/debug-pack",
+    "name": "vsergiu/sf4-skeleton",
     "type": "symfony-pack",
     "license": "MIT",
     "description": "A Symfony 4 skeleton for web applications",
